@@ -6,6 +6,10 @@ I assume some familiarity with Spark and Docker and their basic commands such as
 We will build up the complexity to eventually a full architecture of a Spark cluster running inside of Docker containers in a 
 sequential fashion so as to hopefully build the understanding. 
 
+He sido consciente de este tutorial leyendo esta publicacion del autor:
+
+     https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24
+
 ***
 ## Tutorial
 A full walk through on how to create a Spark cluster running on separate machines inside Docker
